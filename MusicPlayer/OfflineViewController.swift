@@ -12,7 +12,7 @@ class OfflineViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        println("Running Offline View Controller")
         // Do any additional setup after loading the view.
     }
 
